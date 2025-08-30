@@ -25,12 +25,21 @@ This project demonstrates automated API testing for a demo fintech system (**Dmo
 
 ## 🚀 How to Run This Project
 
-- clone this repo git clone https://github.com/swarnaDas01/DMONEY-NEWMAN-API-TESTING
-   - cd DMONEY-NEWMAN-API-TESTING
-- npm i
-- create .env file and copy from env.template and set your own PMAT key
-   - POSTMAN_API_KEY=your_postman_api_key_here
-- Hit this command to run: npm start
+   # Clone the repo
+    git clone https://github.com/swarnaDas01/DMONEY-NEWMAN-API-TESTING
+    cd DMONEY-NEWMAN-API-TESTING
+
+   # Install dependencies
+    npm install
+
+   # Set up environment
+    cp env.template .env
+   # Then replace with your Postman API key
+    POSTMAN_API_KEY=your_postman_api_key_here
+    
+   # Run the test suite
+    npm start
+
 
 ## ✨ Features Covered
 
@@ -52,14 +61,24 @@ All relevant files and documentation:
 🔗 **Postman API Documentation**:  
 https://documenter.getpostman.com/view/47811893/2sB3HhrMfY
 
-📄 **Test Case Google Sheet**:  
+📄 **Test Case Documentation**:  
 https://docs.google.com/spreadsheets/d/1DV7BcxjFegB_ATJEjbfMrmFjAhToGtdWzRaXH4ADr6M/edit?usp=sharing
 
 📊 **Newman HTML Report (htmlextra)**:  
 <img width="907" height="893" alt="image" src="https://github.com/user-attachments/assets/0a37a4b5-bc64-4eb3-a5da-96819c286198" />
 
-🐞 **Bug & Improvement Report**:  
-[https://your-bug-sheet-link](https://your-bug-sheet-link)
+🐞 **Bug & Improvement Report**: 
+
+Bug and improvement issues were tracked in a shared Google Sheet. Each issue includes:
+
+- Issue Type (Bug/Improvement)
+- Title and Description
+- Detailed steps to reproduce
+- Actual vs Expected Result
+- Priority and Severity
+- Screenshot evidence (linked)
+  
+https://docs.google.com/spreadsheets/d/1pJ9HR9xgoun_TQCVdqRsJMwBSuAyZGvbvUwClUFs3b4/edit?usp=sharing
 
 
 ---
@@ -74,7 +93,7 @@ https://docs.google.com/spreadsheets/d/1DV7BcxjFegB_ATJEjbfMrmFjAhToGtdWzRaXH4AD
 🔑 **Header Key:**  
 `X-AUTH-SECRET-KEY: ROADTOSDET`
 
-- **Base URL**:  
+🌐 **Base URL**:  
   `https://dmoney.roadtocareer.net`
 
 ---
@@ -82,6 +101,23 @@ https://docs.google.com/spreadsheets/d/1DV7BcxjFegB_ATJEjbfMrmFjAhToGtdWzRaXH4AD
 ## 🌐 Portal
 
 [Dmoney Portal](http://dmoneyportal.roadtocareer.net)
+
+## ✍️ Author
+
+**Swarna Rani Das**  
+🔗 [GitHub](https://github.com/swarnaDas01)  
+📧 [Email](swarnaranidas6@gmail.com)
+
+---
+
+## 📝 Notes
+
+- This project is designed for real-world API testing workflow and automation.
+- Easy to integrate with CI/CD tools like GitHub Actions or Jenkins.
+- Can be extended to support additional APIs/modules.
+
+---
+
 
 
 
