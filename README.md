@@ -59,10 +59,10 @@ This project demonstrates automated API testing for a demo fintech system (**Dmo
 All relevant files and documentation:
 
 🔗 **Postman API Documentation**:  
-https://documenter.getpostman.com/view/47811893/2sB3HhrMfY
+[Postman API Documentation](https://documenter.getpostman.com/view/47811893/2sB3HhrMfY)
 
 📄 **Test Case Documentation**:  
-https://docs.google.com/spreadsheets/d/1DV7BcxjFegB_ATJEjbfMrmFjAhToGtdWzRaXH4ADr6M/edit?usp=sharing
+[Test Case Documentation](https://docs.google.com/spreadsheets/d/1DV7BcxjFegB_ATJEjbfMrmFjAhToGtdWzRaXH4ADr6M/edit?usp=sharing)
 
 📊 **Newman HTML Report (htmlextra)**:  
 <img width="907" height="893" alt="image" src="https://github.com/user-attachments/assets/0a37a4b5-bc64-4eb3-a5da-96819c286198" />
@@ -78,7 +78,7 @@ Bug and improvement issues were tracked in a shared Google Sheet. Each issue inc
 - Priority and Severity
 - Screenshot evidence (linked)
   
-https://docs.google.com/spreadsheets/d/1pJ9HR9xgoun_TQCVdqRsJMwBSuAyZGvbvUwClUFs3b4/edit?usp=sharing
+[Bug & Improvement Report](https://docs.google.com/spreadsheets/d/1pJ9HR9xgoun_TQCVdqRsJMwBSuAyZGvbvUwClUFs3b4/edit?usp=sharing)
 
 
 ---
